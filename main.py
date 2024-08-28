@@ -1,4 +1,4 @@
-#This code will train model and then predict the values party_type, Prty_name and memo
+#This code will train model and then predict the values party_type, Prty_name and memo and model is directly saved into a model folder
 import pandas as pd
 import numpy as np
 import json
